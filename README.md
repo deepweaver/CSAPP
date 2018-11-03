@@ -1,2 +1,2 @@
 # CSAPP
-homework of the book "COMPUTER SYSTEMS, A PROGRAMMER'S PERSPECTIVE"
+homework of the book "Computer System, A Programmer's Perspective"
